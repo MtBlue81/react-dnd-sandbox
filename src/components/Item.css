@@ -1,0 +1,29 @@
+.item {
+  box-sizing: border-box;
+  display: flex;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  min-height: 30px;
+  padding: 12px;
+}
+
+.contents {
+  margin-left: 12px;
+}
+
+.icon {
+  margin: 8px 0;
+  flex-shrink: 0;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.memo {
+  font-size: 1rem;
+  margin: 8px 0;
+}
