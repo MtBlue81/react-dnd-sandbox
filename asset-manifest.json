@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-dnd-sandbox/static/css/main.1deab483.chunk.css",
+    "main.js": "/react-dnd-sandbox/static/js/main.d0ac2abd.chunk.js",
+    "main.js.map": "/react-dnd-sandbox/static/js/main.d0ac2abd.chunk.js.map",
+    "runtime-main.js": "/react-dnd-sandbox/static/js/runtime-main.5a71e4d6.js",
+    "runtime-main.js.map": "/react-dnd-sandbox/static/js/runtime-main.5a71e4d6.js.map",
+    "static/js/2.19113bcf.chunk.js": "/react-dnd-sandbox/static/js/2.19113bcf.chunk.js",
+    "static/js/2.19113bcf.chunk.js.map": "/react-dnd-sandbox/static/js/2.19113bcf.chunk.js.map",
+    "index.html": "/react-dnd-sandbox/index.html",
+    "static/css/main.1deab483.chunk.css.map": "/react-dnd-sandbox/static/css/main.1deab483.chunk.css.map",
+    "static/js/2.19113bcf.chunk.js.LICENSE.txt": "/react-dnd-sandbox/static/js/2.19113bcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a71e4d6.js",
+    "static/js/2.19113bcf.chunk.js",
+    "static/css/main.1deab483.chunk.css",
+    "static/js/main.d0ac2abd.chunk.js"
+  ]
+}
