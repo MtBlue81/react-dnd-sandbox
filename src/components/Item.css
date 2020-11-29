@@ -15,6 +15,8 @@
 .icon {
   margin: 8px 0;
   flex-shrink: 0;
+  height: 24px;
+  width: 24px;
 }
 
 .title {

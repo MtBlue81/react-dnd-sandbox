@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@primer/octicons-react": "^11.1.0",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
     "react": "^17.0.1",

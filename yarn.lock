@@ -1423,6 +1423,11 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
+"@primer/octicons-react@^11.1.0":
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-11.1.0.tgz#1f03bfdc598ea24006cf03a0adcab2812d0fc958"
+  integrity sha512-1d/0HM4eR6+meZh3OR1HaVCg6DLBwrBEwQBN6SblOlA/98HRGaphRHGwUV7YMbSfFUc1029Ggx54ceKYHYwdXA==
+
 "@react-dnd/asap@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@react-dnd/asap/-/asap-4.0.0.tgz#b300eeed83e9801f51bd66b0337c9a6f04548651"

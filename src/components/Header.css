@@ -18,3 +18,13 @@
 .checkbox > input[type=checkbox] {
   margin-right: 4px;
 }
+
+.github-link {
+  margin-left: 16px;
+  color: inherit;
+}
+
+.github-icon {
+  height: 24px;
+  width: 67.5px;
+}
