@@ -12,7 +12,7 @@ const Header: React.FC<{
 
   return (
     <header className='header'>
-      <h1>Kanban with React DnD</h1>
+      <h1>かんばん(Sansanのカタチ) with React DnD</h1>
       <label className='checkbox'>
         <input type="checkbox" onChange={handleChange} checked={isHorizontal}/>
         Horizontal?

@@ -34,9 +34,8 @@ const App = () => {
             index = index + items.length;
 
             return (
-              <section className={['group-section', isHorizontal ? 'horizontal' : ''].join(' ')}>
+              <section key={group} className={['group-section', isHorizontal ? 'horizontal' : ''].join(' ')}>
                 <Group
-                  key={group}
                   items={items}
                   groupType={group}
                   firstIndex={firstIndex}
