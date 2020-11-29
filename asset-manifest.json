@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-dnd-sandbox/static/css/main.1deab483.chunk.css",
-    "main.js": "/react-dnd-sandbox/static/js/main.d97c8d5d.chunk.js",
-    "main.js.map": "/react-dnd-sandbox/static/js/main.d97c8d5d.chunk.js.map",
+    "main.css": "/react-dnd-sandbox/static/css/main.91f2e5f7.chunk.css",
+    "main.js": "/react-dnd-sandbox/static/js/main.5c898826.chunk.js",
+    "main.js.map": "/react-dnd-sandbox/static/js/main.5c898826.chunk.js.map",
     "runtime-main.js": "/react-dnd-sandbox/static/js/runtime-main.07d5591d.js",
     "runtime-main.js.map": "/react-dnd-sandbox/static/js/runtime-main.07d5591d.js.map",
-    "static/js/2.92710a36.chunk.js": "/react-dnd-sandbox/static/js/2.92710a36.chunk.js",
-    "static/js/2.92710a36.chunk.js.map": "/react-dnd-sandbox/static/js/2.92710a36.chunk.js.map",
+    "static/js/2.48629337.chunk.js": "/react-dnd-sandbox/static/js/2.48629337.chunk.js",
+    "static/js/2.48629337.chunk.js.map": "/react-dnd-sandbox/static/js/2.48629337.chunk.js.map",
     "index.html": "/react-dnd-sandbox/index.html",
-    "static/css/main.1deab483.chunk.css.map": "/react-dnd-sandbox/static/css/main.1deab483.chunk.css.map",
-    "static/js/2.92710a36.chunk.js.LICENSE.txt": "/react-dnd-sandbox/static/js/2.92710a36.chunk.js.LICENSE.txt"
+    "static/css/main.91f2e5f7.chunk.css.map": "/react-dnd-sandbox/static/css/main.91f2e5f7.chunk.css.map",
+    "static/js/2.48629337.chunk.js.LICENSE.txt": "/react-dnd-sandbox/static/js/2.48629337.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07d5591d.js",
-    "static/js/2.92710a36.chunk.js",
-    "static/css/main.1deab483.chunk.css",
-    "static/js/main.d97c8d5d.chunk.js"
+    "static/js/2.48629337.chunk.js",
+    "static/css/main.91f2e5f7.chunk.css",
+    "static/js/main.5c898826.chunk.js"
   ]
 }
